@@ -9,6 +9,7 @@ public class BinaryTree {
         root.left.right = new TreeNode(5);
         System.out.println("Binary Tree is Created");
         System.out.println("Preorder Traversal");
+    
         
     }
 }
